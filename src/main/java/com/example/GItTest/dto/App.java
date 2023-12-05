@@ -6,5 +6,7 @@ public class App {
 	
 	public void getApp() {
 		System.out.println("App");
+		System.out.println("done");
+		
 	}
 }
